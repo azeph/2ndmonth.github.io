@@ -120,8 +120,8 @@
 	margin: auto;
 	width: auto;
 	height: 100%;
-	max-width: 50%;  /* Adjust this value to limit the width */
-	max-height: 50%; /* Adjust this value to limit the height */
+	max-width: 90%;  /* Adjust this value to limit the width */
+	max-height: 90%; /* Adjust this value to limit the height */
 }
 
 #Txt{
